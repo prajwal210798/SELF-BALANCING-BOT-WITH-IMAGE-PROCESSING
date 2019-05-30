@@ -6,7 +6,7 @@ a>AVR 8050 microprocessor
 b>Raspberry pi 3b+ model
 c>Camera module for Raspberry pi
 d>MPU6050 6dof gyroscope and accelerometer measuring module
-e>stepper motor
+e>DC geared motor 240rpm with encoder
 f>2200Mah 11.6 v lippo battery
 g>1/8 rugbby wheel 
 h>lots of code.
