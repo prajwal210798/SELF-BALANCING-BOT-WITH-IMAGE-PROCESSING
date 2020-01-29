@@ -11,3 +11,5 @@ f>2200Mah 11.6 v lippo battery
 g>1/8 rugbby wheel 
 h>lots of code.
 I will be using simulink to test the control system of the bot ,  I have decided to use Cascaded PID feedback control to stabelise the system.
+# CURRENT STATUS:
+There is a problem with the encoders of the motrors, because of the quantization error I am unable to process the data given by encoders in PID loop which makes the loop unefective and unable to track the speed.
